@@ -25,6 +25,7 @@ fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Ctether%2Cethe
                     </div>
                 </div>
         `;
+        
         }
 
     });
